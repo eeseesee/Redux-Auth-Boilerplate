@@ -21,7 +21,7 @@ Interested in learning [Advanced Redux](https://www.udemy.com/react-redux-tutori
 Checkout this repo, install dependencies, then start the webpack process with the following:
 
 ```
-	> git clone git@github.com:eeseesee/Redux-Auth-Boilerplate.git
+	> git clone https://github.com/eeseesee/Redux-Auth-Boilerplate.git
 	> cd Redux-Auth-Boilerplate
 	> npm install
 	> npm start
